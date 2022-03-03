@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devopsurya
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m looking to collaborate with new projects
 - 📫 How to reach me devopsurya@gmail.com
 
 <!---
